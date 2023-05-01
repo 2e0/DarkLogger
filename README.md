@@ -19,7 +19,9 @@
  - [ ]  **Need to replace the token in line 87.**
 
     git clone github.com/2e0/DarkLogger/
+    
     cd DarkLogger
+    
     npm i
 
 # Running
